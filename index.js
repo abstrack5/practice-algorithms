@@ -12,4 +12,4 @@ const askForFriend = () => {
     });
    };
 
-  askForFriend();
+  // askForFriend();
